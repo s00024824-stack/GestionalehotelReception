@@ -1,4 +1,7 @@
-package PACKAGE_NAME;
+public class CameraSingola extends Camera {
+    public CameraSingola(int numero, double prezzo) { super(numero, prezzo); }
 
-public class CameraSingola {
+    @Override
+    public double calcolaTotale(int notti) { return getPrezzoNotte() * notti; }
 }
+

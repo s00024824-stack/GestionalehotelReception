@@ -1,0 +1,4 @@
+--- Report Esame Hotel ---
+ID: 101 - Prezzo: 80.0€
+ID: 202 - Prezzo: 145.0€
+ID: 102 - Prezzo: 85.0€
